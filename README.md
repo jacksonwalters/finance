@@ -5,7 +5,9 @@ Projects related to financial modeling, primarily in Python
 
 **GARCH**: used to model volatility
 
-**ETS**: Exponential smoothing
+**ETS**: exponential smoothing
+
+**CAPM**: asset pricing model
 
 **ML basic**: basic ML models including linear regression, logistic regression, k-nearest neighbors, gradient boosting
 
