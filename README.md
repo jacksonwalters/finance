@@ -5,10 +5,11 @@ Projects related to financial modeling, primarily in Python
 
 **GARCH**: used to model volatility
 
-**PINN**: physics-informed neural network. useful for options pricing when loss function includes Black-Scholes
-
-**XGBoost**: gradient boosting ML model useful for forecasting
+**ETS**: Exponential smoothing
 
 **ML basic**: basic ML models including linear regression, logistic regression, k-nearest neighbors, gradient boosting
 
+**XGBoost**: gradient boosting ML model useful for forecasting
+
+**PINN**: physics-informed neural network. useful for options pricing when loss function includes Black-Scholes
 
