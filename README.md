@@ -5,4 +5,4 @@ ARIMA: https://machinelearningmastery.com/arima-for-time-series-forecasting-with
 
 GARCH: used to model volatility
 
-PINN: physics-informed neural network. useful for options pricing when loss function includes Black-Scholes PDE
+PINN: physics-informed neural network. useful for options pricing when loss function includes Black-Scholes
