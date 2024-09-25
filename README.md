@@ -3,9 +3,9 @@ Projects related to financial modeling, primarily in Python
 
 **ARIMA**: useful for time-series modeling and forecasting
 
-**GARCH**: used to model volatility
-
 **ETS**: exponential smoothing
+
+**GARCH**: used to model volatility
 
 **CAPM**: asset pricing model
 
