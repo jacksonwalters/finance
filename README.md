@@ -17,7 +17,9 @@ Projects related to financial modeling, primarily in Python
 
 **PINN**: physics-informed neural network for options pricing when loss function residual is Black-Scholes PDE
 
-TO-DO:
+---
+
+*TO-DO*:
 
 - ensure PINNs are using PDE as residual (2nd derivative) rather than explicit BS solution
 - compare to real world data and ensure getting accurate predictions
