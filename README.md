@@ -1,6 +1,8 @@
 # finance
 Projects related to financial modeling, primarily in Python
 
+---
+
 **ARIMA**: useful for time-series modeling and forecasting
 
 **ETS**: exponential smoothing
