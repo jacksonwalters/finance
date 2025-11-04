@@ -17,12 +17,5 @@ Projects related to financial modeling, primarily in Python
 
 **options_pricing**: Black-Scholes for European-style options, Binomial Tree Model for America-style (early exercise)
 
-**PINN**: physics-informed neural network for options pricing when loss function residual is Black-Scholes PDE
-
 ---
 
-*TO-DO*:
-
-- ensure PINNs are using PDE as residual (2nd derivative) rather than explicit BS solution
-- compare to real world data and ensure getting accurate predictions
-- find novel solutions in non-constant volatility settings
